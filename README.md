@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amit Karmakar  
 - 👀 I’m interested in Data Science , Machine Learning
-- 🌱 I’m currently learning DSA C++
+- 🌱 I’m currently learning DSA C++ Python
 - 💞️ I’m looking to collaborate on :)
 - 📫 How to reach me karamit819@gmail.com
 

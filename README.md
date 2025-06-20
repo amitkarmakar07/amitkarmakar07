@@ -1,3 +1,5 @@
+![logo](https://github.com/amitkarmakar07/amitkarmakar07/blob/main/Photographer%20LinkedIn%20Banner.png)
+  
 <h1 align="center">Hi 👋, I'm Amit Karmakar</h1>
 <h3 align="center">Crafting intelligence from data.</h3>
 
